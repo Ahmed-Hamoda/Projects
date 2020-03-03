@@ -12,7 +12,7 @@ This program contains functions that rotate images as well as invert their colou
 
 2) Machine Learning AI for Story Generation:
 
-This program reads a given text file, and learns the grammar and sentence syntax in that file. It then attempts to generate a story based on a token (initial word) and a seed (order information). The results vary depending on the length of the initial file to be read and the seed generated.
+This program reads a given text file, and learns the grammar and sentence syntax in that file. It then attempts to generate a story based on a token (initial word) and a seed (order information). The results vary depending on the length of the initial file to be read and the seed generated. The current code is built based on the story "Three Men in a Boat" by Jerome K. Jerome.
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
