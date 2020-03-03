@@ -32,4 +32,4 @@ This was a project I made in grade 9. It involved prototyping an Automoblox car,
 
 2) Civil Engineering Design
 
-As a part of a civil engineering course I took in grade 10, I was required to design a library building that abides by engineering standards using the modelling software Autodesk Revit.
+As a part of a civil engineering course I took in grade 10, I was required to design a Shed using Autodesk Revit. Furthermore, I was also required to render the shed at different stages of the project.
