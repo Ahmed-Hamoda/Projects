@@ -16,11 +16,23 @@ This program reads a given text file, and learns the grammar and sentence syntax
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
+# C
+
+1) Computational Mathematics using Stacks:
+
+This code evaluates a post-order mathematical expression using a stack structure. It is also able to read files for their contents and write the results to a new file.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
 # MATLAB
 
-1) Euler Approximations and Curve Fittings:
+1) Riemann Approximations and Curve Fittings:
 
-As a part of my Linear Algebra course (ESC103), I learned how to code a script that approximates the integral of a function based on different euler approximations. Furthermore, I also programmed a script to fit a curve based on a set of points using the least-squares methods.
+As a part of my Linear Algebra course (ESC103), I learned how to code a script that approximates the integral of a function based on different Riemann approximations. Furthermore, I also programmed a script to fit a curve based on a set of points using the least-squares methods.
+
+2) Differential Equation Modelling
+
+This is a script that solves differential equations using Euler's method. It then graphs the analytic solution to the differential equation.
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
