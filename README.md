@@ -18,9 +18,14 @@ This program reads a given text file, and learns the grammar and sentence syntax
 
 # C
 
-1) Computational Mathematics using Stacks:
+1) Brick Breaker Game
+
+This is a video game coded on a De1-SoC FPGA with an ARM v7 cpu. In order to play, go to cpulator.01xz.net/ and select the ARM v7 architecture and the ARM v7 De1-SoC system. Switch the language from ARM v7 to C in the top right corner, and then upload the file. Click "compile and load" to start playing.
+
+2) Computational Mathematics using Stacks:
 
 This code evaluates a post-order mathematical expression using a stack structure. It is also able to read files for their contents and write the results to a new file.
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
