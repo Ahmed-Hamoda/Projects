@@ -33,20 +33,8 @@ This code evaluates a post-order mathematical expression using a stack structure
 
 1) Riemann Approximations and Curve Fittings:
 
-As a part of my Linear Algebra course (ESC103), I learned how to code a script that approximates the integral of a function based on different Riemann approximations. Furthermore, I also programmed a script to fit a curve based on a set of points using the least-squares methods.
+As a part of my Linear Algebra course, I learned how to code a script that approximates the integral of a function based on different Riemann approximations. Furthermore, I also programmed a script to fit a curve based on a set of points using the least-squares methods.
 
 2) Differential Equation Modelling
 
 This is a script that solves differential equations using Euler's method. It then graphs the analytic solution to the differential equation.
-
---------------------------------------------------------------------------------------------------------------------------------------------
-
-# AUTOCAD
-
-1) Automoblox Prototype:
-
-This was a project I made in grade 9. It involved prototyping an Automoblox car, which required extensive use of Autodesk Inventor. In the end, we were also required to simulate the physics of the car parts to model a real life car.
-
-2) Civil Engineering Design
-
-As a part of a civil engineering course I took in grade 10, I was required to design a Shed using Autodesk Revit. Furthermore, I was also required to render the shed at different stages of the project.
